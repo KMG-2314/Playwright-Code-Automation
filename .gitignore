@@ -7,3 +7,4 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 Data/Config_Data.xlsx
+auth-outlook.json
