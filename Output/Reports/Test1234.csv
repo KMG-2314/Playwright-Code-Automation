@@ -1,0 +1,70 @@
+Month,Project,Owner,Daily Log
+2025-01,01_Quincy-Agency_Port_APIs_Rewrite,Rajan Singh,1.0
+2025-01,02_Quincy-Python_Raters_Rewrite-PAP,Aarush Verma,2.0
+2025-01,02_Quincy-Python_Raters_Rewrite-PAP,Kartikey  Pant,8.0
+2025-01,02_Quincy-Python_Raters_Rewrite-PAP,Maanik Kapoor,8.0
+2025-01,02_Quincy-Python_Raters_Rewrite-PAP,Richa Trivedi,8.0
+2025-01,02_Quincy-Python_Raters_Rewrite-PAP,S Praveen Kumar,8.0
+2025-01,02_Quincy-Python_Raters_Rewrite-PAP,Shubham Dhyani,5.0
+2025-01,03_Quincy-General Professional Services-v2,Vinod Ramamurthy,8.0
+2025-01,08_Quincy_Reporting_Bots,Ankit Kumar,4.0
+2025-01,08_Quincy_Reporting_Bots,Kamakshi Tewari,1.0
+2025-01,08_Quincy_Reporting_Bots,Kirti Jindal,1.0
+2025-01,08_Quincy_Reporting_Bots,Mudita Jain,1.0
+2025-02,01_Quincy-Agency_Port_APIs_Rewrite,Rajan Singh,1.0
+2025-02,02_Quincy-Python_Raters_Rewrite-PAP,Aarush Verma,2.0
+2025-02,02_Quincy-Python_Raters_Rewrite-PAP,Kartikey  Pant,8.0
+2025-02,02_Quincy-Python_Raters_Rewrite-PAP,Maanik Kapoor,8.0
+2025-02,02_Quincy-Python_Raters_Rewrite-PAP,Richa Trivedi,8.0
+2025-02,02_Quincy-Python_Raters_Rewrite-PAP,S Praveen Kumar,8.0
+2025-02,02_Quincy-Python_Raters_Rewrite-PAP,Shubham Dhyani,5.0
+2025-02,03_Quincy-General Professional Services-v2,Vinod Ramamurthy,8.0
+2025-02,05_Quincy-PowerBI Dashboard,Vikas Gusain,0.0
+2025-02,08_Quincy_Reporting_Bots,Kamakshi Tewari,2.0
+2025-02,08_Quincy_Reporting_Bots,Kirti Jindal,4.0
+2025-02,08_Quincy_Reporting_Bots,Mudita Jain,2.0
+2025-02,"09_Quincy-VDI, PowerBI & UIPath Setup",Piuesh Jain,1.0
+2025-02,"09_Quincy-VDI, PowerBI & UIPath Setup",Vikas Gusain,2.0
+2025-03,01_Quincy-Agency_Port_APIs_Rewrite,Rajan Singh,1.0
+2025-03,02_Quincy-Python_Raters_Rewrite-PAP,Aarush Verma,2.0
+2025-03,02_Quincy-Python_Raters_Rewrite-PAP,Kartikey  Pant,8.0
+2025-03,02_Quincy-Python_Raters_Rewrite-PAP,Maanik Kapoor,8.0
+2025-03,02_Quincy-Python_Raters_Rewrite-PAP,Richa Trivedi,8.0
+2025-03,02_Quincy-Python_Raters_Rewrite-PAP,S Praveen Kumar,8.0
+2025-03,02_Quincy-Python_Raters_Rewrite-PAP,Shubham Dhyani,5.0
+2025-03,03_Quincy-General Professional Services-v2,Vinod Ramamurthy,8.0
+2025-03,"09_Quincy-VDI, PowerBI & UIPath Setup",Piuesh Jain,0.1
+2025-03,10_Quincy-PowerBI_Enterprise rollout,Vikas Gusain,0.0
+2025-04,01_Quincy-Agency_Port_APIs_Rewrite,Rajan Singh,1.0
+2025-04,02_Quincy-Python_Raters_Rewrite-PAP,Aarush Verma,2.0
+2025-04,02_Quincy-Python_Raters_Rewrite-PAP,S Praveen Kumar,8.0
+2025-04,02_Quincy-Python_Raters_Rewrite-PAP,Shubham Dhyani,5.0
+2025-04,03_Quincy-General Professional Services-v2,Vinod Ramamurthy,8.0
+2025-04,10_Quincy-PowerBI_Enterprise rollout,Piuesh Jain,0.5
+2025-04,10_Quincy-PowerBI_Enterprise rollout,Vikas Gusain,0.0
+2025-05,01_Quincy-Agency_Port_APIs_Rewrite,Rajan Singh,8.0
+2025-05,02_Quincy-Python_Raters_Rewrite-PAP,Aarush Verma,2.0
+2025-05,02_Quincy-Python_Raters_Rewrite-PAP,Kartikey  Pant,8.0
+2025-05,02_Quincy-Python_Raters_Rewrite-PAP,Maanik Kapoor,8.0
+2025-05,02_Quincy-Python_Raters_Rewrite-PAP,Richa Trivedi,8.0
+2025-05,02_Quincy-Python_Raters_Rewrite-PAP,S Praveen Kumar,8.0
+2025-05,02_Quincy-Python_Raters_Rewrite-PAP,Shubham Dhyani,5.0
+2025-05,03_Quincy-General Professional Services-v2,Vinod Ramamurthy,8.0
+2025-05,08_Quincy_Reporting_Bots,Kirti Jindal,2.0
+2025-05,10_Quincy-PowerBI_Enterprise rollout,Piuesh Jain,0.5
+2025-06,02_Quincy-Python_Raters_Rewrite-PAP,Maanik Kapoor,8.0
+2025-08,01_Quincy-Agency_Port_APIs_Rewrite,Rajan Singh,9.0
+2025-08,01_Quincy-Agency_Port_APIs_Rewrite,S Praveen Kumar,8.0
+2025-08,02_Quincy-Python_Raters_Rewrite-PAP,Kartikey  Pant,8.0
+2025-08,02_Quincy-Python_Raters_Rewrite-PAP,Maanik Kapoor,8.0
+2025-08,02_Quincy-Python_Raters_Rewrite-PAP,Richa Trivedi,8.0
+2025-08,02_Quincy-Python_Raters_Rewrite-PAP,Shubham Dhyani,5.0
+2025-08,03_Quincy-General Professional Services-v2,Vinod Ramamurthy,8.0
+2025-09,01_Quincy-Agency_Port_APIs_Rewrite,Rajan Singh,8.0
+2025-09,02_Quincy-Python_Raters_Rewrite-PAP,Kartikey  Pant,8.0
+2025-09,02_Quincy-Python_Raters_Rewrite-PAP,Maanik Kapoor,8.0
+2025-09,02_Quincy-Python_Raters_Rewrite-PAP,Richa Trivedi,8.0
+2025-09,02_Quincy-Python_Raters_Rewrite-PAP,S Praveen Kumar,8.0
+2025-09,02_Quincy-Python_Raters_Rewrite-PAP,Shubham Dhyani,5.0
+2025-09,03_Quincy-General Professional Services-v2,Vinod Ramamurthy,8.0
+2025-09,08_Quincy_Reporting_Bots,Kirti Jindal,5.0
