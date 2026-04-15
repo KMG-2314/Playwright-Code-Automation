@@ -1,0 +1,114 @@
+[
+  [
+    "S. No.",
+    "Date",
+    "Day",
+    "Occasion",
+    "Gurgaon/\nJaipur",
+    "Kolkata"
+  ],
+  [
+    "1",
+    "01-Jan-26",
+    "Thursday",
+    "New Year",
+    "√",
+    "√"
+  ],
+  [
+    "2",
+    "26-Jan-26",
+    "Monday",
+    "Republic Day",
+    "√",
+    "√"
+  ],
+  [
+    "3",
+    "4-Mar-26",
+    "Wednesday",
+    "Holi/Dol Yatra",
+    "√",
+    "√"
+  ],
+  [
+    "4",
+    "15-Apr-26",
+    "Wednesday",
+    "Bengali New Year",
+    "",
+    "√"
+  ],
+  [
+    "5",
+    "27-May-26",
+    "Wednesday",
+    "Id-ul-Zuha",
+    "√",
+    ""
+  ],
+  [
+    "6",
+    "28-Aug-26",
+    "Friday",
+    "Rakshabandhan",
+    "√",
+    ""
+  ],
+  [
+    "7",
+    "02-Oct-26",
+    "Friday",
+    "Gandhi Jayanti",
+    "√",
+    "√"
+  ],
+  [
+    "8",
+    "19-Oct-26",
+    "Monday",
+    "Maha Ashtami/Navami",
+    "",
+    "√"
+  ],
+  [
+    "9",
+    "20-Oct-26",
+    "Tuesday",
+    "Dussehra",
+    "√",
+    "√"
+  ],
+  [
+    "10",
+    "09-Nov-26",
+    "Monday",
+    "Post Diwali",
+    "√",
+    ""
+  ],
+  [
+    "11",
+    "11-Nov-26",
+    "Wednesday",
+    "Bhatri Dwitiya",
+    "",
+    "√"
+  ],
+  [
+    "12",
+    "25-Dec-26",
+    "Friday",
+    "Christmas Day",
+    "√",
+    "√"
+  ],
+  [
+    "Total Holidays per Location/City",
+    null,
+    null,
+    null,
+    "9",
+    "9"
+  ]
+]

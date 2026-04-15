@@ -162,7 +162,9 @@ class LoginPage {
     if (isOtpVisible) {
       console.log("🔐 OTP screen detected");
 
-      const otp = await getOtpFromOutlook();
+      // Check config for headless flag (default to true)
+      const isHeadless = config.headlessOutlook === 'No' ? false : true;
+      const otp = await getOtpFromOutlook(isHeadless);
       console.log("🔢 OTP:", otp);
 
       await this.submitOtp(otp);
